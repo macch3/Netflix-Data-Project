@@ -16,7 +16,7 @@ The dataset used in this analysis is derived from a publicly available source th
 - **Jupyter Notebook**: The development environment for running Python code and presenting the analysis.
 
 ## Key Findings
-- An upward trend in the number of titles added over time, with a peak observed in [insert year].
+- An upward trend in the number of titles added over time, with a peak observed in 2017 - 2019.
 - A breakdown of the distribution between movies and TV shows.
 - Identification of the top 10 countries contributing to Netflix's content library.
 
